@@ -10,7 +10,7 @@
 7. [Przykładowe dane wejściowe](#przykładowe-dane-wejściowe)
 
 ## Opis projektu
-Projekt "Ćwiczenie pisania na klawiaturze" to aplikacja desktopowa, która pomaga użytkownikom poprawić swoje umiejętności pisania na klawiaturze. Program wczytuje bazę zdań z pliku, a następnie wyświetla losowo wybrane zdanie do przepisania przez użytkownika. Użytkownik nie widzi wpisywanego tekstu, a po zakończeniu wpisywania i wciśnięciu klawisza Enter, program porównuje wpisany tekst z oryginalnym, podkreśla błędy i oblicza procent błędów.
+Projekt "Ćwiczenie pisania na klawiaturze" to aplikacja desktopowa, która pomaga użytkownikom poprawić swoje umiejętności pisania na klawiaturze. Program wczytuje bazę zdań z pliku, a następnie wyświetla losowo wybrane zdanie do przepisania przez użytkownika. Użytkownik nie widzi wpisywanego tekstu, a po zakończeniu wpisywania i wciśnięciu klawisza Enter, program porównuje wpisany tekst z oryginalnym, podkreśla błędy i oblicza procent błędów. Projekt wykonywany był na studia, stąd w całym kodzie pododawane są komentarze :)
 
 ## Funkcjonalności
 - Wczytywanie bazy zdań z pliku.
